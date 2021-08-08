@@ -22,7 +22,6 @@ import { BrandListComponent } from './components/brand-list/brand-list.component
 import { BrandComponent } from './components/brand/brand.component';
 import { SearchComponent } from './components/search/search.component';
 
-import { CategoryTypeDirective } from './directives/category-type.directive';
 import { BadgeColorPipe } from './pipess/badge-color.pipe';
 
 import { MessageService } from './services/message.service';
@@ -35,7 +34,6 @@ registerLocaleData(en);
     BrandListComponent,
     BrandComponent,
     SearchComponent,
-    CategoryTypeDirective,
     BadgeColorPipe
   ],
   imports: [

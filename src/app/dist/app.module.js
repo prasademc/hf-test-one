@@ -27,7 +27,6 @@ var select_1 = require("ng-zorro-antd/select");
 var brand_list_component_1 = require("./components/brand-list/brand-list.component");
 var brand_component_1 = require("./components/brand/brand.component");
 var search_component_1 = require("./components/search/search.component");
-var category_type_directive_1 = require("./directives/category-type.directive");
 var badge_color_pipe_1 = require("./pipess/badge-color.pipe");
 var message_service_1 = require("./services/message.service");
 common_1.registerLocaleData(en_1["default"]);
@@ -41,7 +40,6 @@ var AppModule = /** @class */ (function () {
                 brand_list_component_1.BrandListComponent,
                 brand_component_1.BrandComponent,
                 search_component_1.SearchComponent,
-                category_type_directive_1.CategoryTypeDirective,
                 badge_color_pipe_1.BadgeColorPipe
             ],
             imports: [
