@@ -1,0 +1,17 @@
+.search-wrappers {
+	margin: 2rem 1rem;
+	display: inline-flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+
+	.search-input {
+		width: 16rem;
+		margin-right: 1rem;
+	}
+
+	.search-select {
+		width: 16rem;
+		margin-right: 1rem;
+	}
+}

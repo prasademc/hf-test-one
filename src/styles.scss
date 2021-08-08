@@ -1,0 +1,99 @@
+/* You can add global styles to this file, and also import other style files */
+@import './app/styles/config/screens';
+@import './app/styles/mixins/medis';
+
+html, body {
+    background-color: #111111;
+    font-weight: 400;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+
+	.container {
+		background-color: #ffffff;
+		margin: 0 auto;
+		width: 100vw;
+		height: 100%;
+
+		@include media(
+            $from: 'sm',
+            $until: 'xl',
+            $and: 'orientation: landscape'
+        ) {
+            padding: 0 3.75rem;
+            width: 100vw;
+        }
+
+        @include media(
+            $from: 'xl',
+            $until: 20000px,
+            $and: 'orientation: landscape'
+        ) {
+            width: 100%;
+            max-width: $l;
+        }
+	}
+}
+
+.brand-list {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 0.5rem;
+
+	.brand {
+		margin: 0 0.5rem 1rem 0.5rem;
+		width: calc(100% - 1rem);
+
+		@include media(
+            $from: 'md',
+            $until: 'l',
+            $and: 'orientation: landscape'
+        ) {
+            width: calc(50% - 1rem);
+        }
+
+        @include media(
+            $from: 'l',
+            $until: 20000px,
+            $and: 'orientation: landscape'
+        ) {
+            width: calc(25% - 1rem);
+        }
+
+		.ant-card-cover {
+			width: 100%;
+			height: 12rem;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			padding: 1rem;
+			position: relative;
+
+			& > img {
+				position: relative;
+				object-fit: contain;
+				height: 100%;
+				z-index: 0;
+			}
+
+			.badge {
+				width: auto;
+				z-index: 1;
+				position: absolute;
+				right: 0;
+				bottom: 0;
+				left: auto;
+				border-radius: 2rem;
+				padding: 0.5rem 1rem;
+				background-color: #dfdfdf;
+				font-weight: bold;
+				color: #ffffff;
+			}
+		}
+	}
+}
+
+
+

@@ -1,0 +1,18 @@
+<div class="search-wrappers">
+	<form [formGroup]="searchForm">
+		<input class="search-input" formControlName="search" nz-input placeholder="Search" />
+		<nz-select
+			formControlName="category"
+			class="search-select"
+			[nzMaxTagCount]="3"
+			[nzMaxTagPlaceholder]="tagPlaceHolder"
+			nzMode="multiple"
+			nzPlaceHolder="Please select"
+		>
+		<nz-option *ngFor="let category of categories" [nzLabel]="category.category" [nzValue]="category.category"></nz-option>
+		</nz-select>
+		<ng-template #tagPlaceHolder let-selectedList>and {{ selectedList.length }} more selected</ng-template>
+		<a (click)="resetForm()" nz-button nzType="link">Reset</a>
+	</form>
+</div>
+

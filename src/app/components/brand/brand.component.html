@@ -1,0 +1,7 @@
+<nz-card nzHoverable  [nzCover]="coverTemplate">
+	<nz-card-meta nzTitle="{{ brandData.brandName }}" nzDescription="{{ brandData.discount }} discount"></nz-card-meta>
+</nz-card>
+<ng-template #coverTemplate>
+	<img alt="{{ brandData.logoURL }}" src="{{ brandData.logoURL }}" />
+	<span #badgeEl class="badge" *ngIf="brandData.type">{{ brandData.type | badgeColor:  badgeEl }}</span>
+</ng-template>

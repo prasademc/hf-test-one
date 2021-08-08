@@ -1,0 +1,3917 @@
+{
+    "brands": [
+        {
+            "brandId": 0,
+            "brandName": "King Gee",
+            "discount": "9%",
+            "category": "Adult & Kid's Clothing & Fashion , New",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/KINGGEE.jpg"
+        },
+        {
+            "brandId": 1,
+            "brandName": "Deramores",
+            "discount": "3%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/deramores-cover.jpg"
+        },
+        {
+            "brandId": 2,
+            "brandName": "Mainline Menswear",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mainline Menswear.jpg"
+        },
+        {
+            "brandId": 3,
+            "brandName": "Belle & Bloom",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/1888x.png"
+        },
+        {
+            "brandId": 4,
+            "brandName": "Wilderness Wear",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Wilderness Wear.PNG"
+        },
+        {
+            "brandId": 5,
+            "brandName": "The Nile",
+            "discount": "5%",
+            "category": "Department Stores & Homewares, Popular, New",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Nile.PNG"
+        },
+        {
+            "brandId": 6,
+            "brandName": "Thryve Inside ",
+            "discount": "10%",
+            "category": "Food & Beverage,Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Thryve.png"
+        },
+        {
+            "brandId": 7,
+            "brandName": "Endota Spa",
+            "discount": "Up to 9%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Endota Spa.png"
+        },
+        {
+            "brandId": 8,
+            "brandName": "Johnny Bigg",
+            "discount": "Up to 7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Johnny BIgg.jpg"
+        },
+        {
+            "brandId": 9,
+            "brandName": "Hello Molly",
+            "discount": "Up to 10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hello Molly.PNG"
+        },
+        {
+            "brandId": 10,
+            "brandName": "Wild Secrets",
+            "discount": "10%",
+            "category": "Adult Only Stores",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Wild Secrets.png"
+        },
+        {
+            "brandId": 11,
+            "brandName": "Berlei",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Berlei.png"
+        },
+        {
+            "brandId": 12,
+            "brandName": "House",
+            "discount": "Up to 8%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/House.PNG"
+        },
+        {
+            "brandId": 13,
+            "brandName": "Skin Matrix",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Skin Matrix.PNG"
+        },
+        {
+            "brandId": 14,
+            "brandName": "Wolven",
+            "discount": "Up to 10%",
+            "category": "Adult & Kid's Clothing & Fashion ",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Wolven.PNG"
+        },
+        {
+            "brandId": 15,
+            "brandName": "Brosa Furniture",
+            "discount": "Up to 7%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Brosa.png"
+        },
+        {
+            "brandId": 16,
+            "brandName": "DriveMyCar",
+            "discount": "Up to $20.00",
+            "category": "Cars & Bikes & Accessories,Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Drive My Car.PNG"
+        },
+        {
+            "brandId": 17,
+            "brandName": "Carla Zampatti",
+            "discount": "Up to 6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/zampatti-300x300.png"
+        },
+        {
+            "brandId": 18,
+            "brandName": "Free People",
+            "discount": "Up to 3%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/FREE PEOPLE.png"
+        },
+        {
+            "brandId": 19,
+            "brandName": "TourRadar",
+            "discount": "5%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Tourradar.PNG"
+        },
+        {
+            "brandId": 20,
+            "brandName": "The Hamper Emporium",
+            "discount": "10%",
+            "category": "Personalised Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Hamper Emporium.png"
+        },
+        {
+            "brandId": 21,
+            "brandName": "Otticanet",
+            "discount": "7%",
+            "category": "Eyewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Otticanet.png"
+        },
+        {
+            "brandId": 22,
+            "brandName": "E-Dreams",
+            "discount": "1.5%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/eDreams.PNG"
+        },
+        {
+            "brandId": 23,
+            "brandName": "My Haircare & Beauty",
+            "discount": "Up to 7.5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/HAIR AND BEAUTY.PNG"
+        },
+        {
+            "brandId": 24,
+            "brandName": "The Job Sauce",
+            "discount": "Up to US$30/order",
+            "category": "Business Supplies & Services",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/thejobsauce.png"
+        },
+        {
+            "brandId": 25,
+            "brandName": "Sportsmans Warehouse",
+            "discount": "5%",
+            "category": "Activewear,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Sportsmans warehouse.png"
+        },
+        {
+            "brandId": 26,
+            "brandName": "Apero Label",
+            "discount": "Up to 10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Apero.png"
+        },
+        {
+            "brandId": 27,
+            "brandName": "Blys",
+            "discount": "7%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Blys.jpg"
+        },
+        {
+            "brandId": 28,
+            "brandName": "Azura Runway",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Azura Runway.png"
+        },
+        {
+            "brandId": 29,
+            "brandName": "Adrenaline",
+            "discount": "5%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Adrenaline.png"
+        },
+        {
+            "brandId": 30,
+            "brandName": "Yd.",
+            "discount": "Up to 7%",
+            "category": "Adult & Kid's Clothing & Fashion ",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/YD..png"
+        },
+        {
+            "brandId": 31,
+            "brandName": "4WD Supacentre",
+            "discount": "3%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/4WD Supa Centre.jpg"
+        },
+        {
+            "brandId": 32,
+            "brandName": "Avis",
+            "discount": "7%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/logo avis (1).png"
+        },
+        {
+            "brandId": 33,
+            "brandName": "KitchenAid",
+            "discount": "3%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/KitchenAid.png"
+        },
+        {
+            "brandId": 34,
+            "brandName": "Travel Insurance Direct",
+            "discount": "6%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/TID.png"
+        },
+        {
+            "brandId": 35,
+            "brandName": "David Lawrence",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/DAVID LAWRENCE.png"
+        },
+        {
+            "brandId": 36,
+            "brandName": "Boutiquefeel",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Boutiquefeel.PNG"
+        },
+        {
+            "brandId": 37,
+            "brandName": "Marley Spoon",
+            "discount": "Up to $45 per sale",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Marley Spoon.jpg"
+        },
+        {
+            "brandId": 38,
+            "brandName": "Mr Roses",
+            "discount": "10%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mr Roses.png"
+        },
+        {
+            "brandId": 39,
+            "brandName": "Bravofly AU",
+            "discount": "5%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bravofly.PNG"
+        },
+        {
+            "brandId": 40,
+            "brandName": "Camera House",
+            "discount": "4%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/CameraHouse.PNG"
+        },
+        {
+            "brandId": 41,
+            "brandName": "Champion",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Champion.png"
+        },
+        {
+            "brandId": 42,
+            "brandName": "Meshki",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/MESHKI.png"
+        },
+        {
+            "brandId": 43,
+            "brandName": "Moo AU",
+            "discount": "Up to 6% ",
+            "category": "Business Supplies & Services",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Moo.png"
+        },
+        {
+            "brandId": 44,
+            "brandName": "PLE Computers",
+            "discount": "1.6%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/PLE Computers.PNG"
+        },
+        {
+            "brandId": 45,
+            "brandName": "Mindvalley Membership",
+            "discount": "20%",
+            "category": "Learning & Education",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/mindvalley.jpg"
+        },
+        {
+            "brandId": 46,
+            "brandName": "Aussie Health Products",
+            "discount": "6%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/aussie-health-products-discount-codes.png"
+        },
+        {
+            "brandId": 47,
+            "brandName": "Dollar Shave Club",
+            "discount": "Up to $7/order",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/DSC.png"
+        },
+        {
+            "brandId": 48,
+            "brandName": "Shopbop",
+            "discount": "1%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/shopbop.png"
+        },
+        {
+            "brandId": 49,
+            "brandName": "Bendon Lingerie AU",
+            "discount": "9%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bendon Lingerie.png"
+        },
+        {
+            "brandId": 50,
+            "brandName": "Ticketmaster",
+            "discount": "Up to $0.30",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ticketmaster.png"
+        },
+        {
+            "brandId": 51,
+            "brandName": "Innoxa",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Innoxa.png"
+        },
+        {
+            "brandId": 52,
+            "brandName": "Ergoflex",
+            "discount": "Up to 4%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ergoflex.PNG"
+        },
+        {
+            "brandId": 53,
+            "brandName": "Lorna Jane",
+            "discount": "Up to 5%",
+            "category": "Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Lorna Jane.png"
+        },
+        {
+            "brandId": 54,
+            "brandName": "Billini",
+            "discount": "4%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/bellini.png"
+        },
+        {
+            "brandId": 55,
+            "brandName": "Light In The Box",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion,Online Retailer,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Lightinthebox.png"
+        },
+        {
+            "brandId": 56,
+            "brandName": "Bundarra Sportswear",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion,Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bundarra.PNG"
+        },
+        {
+            "brandId": 57,
+            "brandName": "Sanity",
+            "discount": "4%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Sanity.PNG"
+        },
+        {
+            "brandId": 58,
+            "brandName": "Probikekit",
+            "discount": "4%",
+            "category": "Sports & Fitness",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Probikekit.png"
+        },
+        {
+            "brandId": 59,
+            "brandName": "Siren Shoes",
+            "discount": "5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Siren.PNG"
+        },
+        {
+            "brandId": 60,
+            "brandName": "Clarks",
+            "discount": "10%",
+            "category": "Footwear,Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/CLARKS.png"
+        },
+        {
+            "brandId": 61,
+            "brandName": "Woolworths Supermarkets",
+            "discount": "1%",
+            "category": "Food & Beverage,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Woolworths.jpg"
+        },
+        {
+            "brandId": 62,
+            "brandName": "Aje.",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Aje.png"
+        },
+        {
+            "brandId": 63,
+            "brandName": "Ted Baker",
+            "discount": "2%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ted Baker.PNG"
+        },
+        {
+            "brandId": 64,
+            "brandName": "Millers",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Millers.png"
+        },
+        {
+            "brandId": 65,
+            "brandName": "Castlery",
+            "discount": "Up to 7%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Castlery.png"
+        },
+        {
+            "brandId": 66,
+            "brandName": "Ben Sherman",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ben Sherman Logo.png"
+        },
+        {
+            "brandId": 67,
+            "brandName": "Smart Buy Glasses",
+            "discount": "8%",
+            "category": "Eyewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Smart Buy Glasses.PNG"
+        },
+        {
+            "brandId": 68,
+            "brandName": "Blue Illusion",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Blue Illusion.PNG"
+        },
+        {
+            "brandId": 69,
+            "brandName": "Motoquipe",
+            "discount": "Up to 5%",
+            "category": "Cars & Bikes & Accessories",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Motoquipe.PNG"
+        },
+        {
+            "brandId": 70,
+            "brandName": "AliExpress",
+            "discount": "4% ",
+            "category": "Online Retailer,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/AliExpress.PNG"
+        },
+        {
+            "brandId": 71,
+            "brandName": "Microsoft",
+            "discount": "Up to 7%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Microsoft.png"
+        },
+        {
+            "brandId": 72,
+            "brandName": "HeyHey.com.au",
+            "discount": "8%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/heyhey-com-au-discount-codes.png"
+        },
+        {
+            "brandId": 73,
+            "brandName": "PatPat",
+            "discount": "Up to 13%",
+            "category": "Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Pat Pa.png"
+        },
+        {
+            "brandId": 74,
+            "brandName": "Rebecca Minkoff US",
+            "discount": "4%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Rebecca Minkoff.png"
+        },
+        {
+            "brandId": 75,
+            "brandName": "Triumph",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Triumph.jpg"
+        },
+        {
+            "brandId": 76,
+            "brandName": "Kissed Earth",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kissed Earth Rakuten.png"
+        },
+        {
+            "brandId": 77,
+            "brandName": "Trafalgar Tours",
+            "discount": "5%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Trafalgar.png"
+        },
+        {
+            "brandId": 78,
+            "brandName": "R.M.Williams",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/R.M.Williams.png"
+        },
+        {
+            "brandId": 79,
+            "brandName": "Cotswold Outdoor",
+            "discount": "6%",
+            "category": "Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Cotswold Outdoor.png"
+        },
+        {
+            "brandId": 80,
+            "brandName": "Noni B Limited",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Noni B.png"
+        },
+        {
+            "brandId": 81,
+            "brandName": "Betta Home Living",
+            "discount": "3.85%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Betta Home Living.png"
+        },
+        {
+            "brandId": 82,
+            "brandName": "Ryderwear",
+            "discount": "Up to 10% ",
+            "category": "Adult & Kid's Clothing & Fashion,Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ryderwear.PNG"
+        },
+        {
+            "brandId": 83,
+            "brandName": "Entropy Toys",
+            "discount": "10%",
+            "category": "Baby & Childcare,Children Games & Toys",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Entropy.jpg"
+        },
+        {
+            "brandId": 84,
+            "brandName": "Chi Chi London",
+            "discount": "Up to 6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Chi Chi London.PNG"
+        },
+        {
+            "brandId": 85,
+            "brandName": "2XU",
+            "discount": "4%",
+            "category": "Activewear,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/2XU.png"
+        },
+        {
+            "brandId": 86,
+            "brandName": "GAZMAN",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Gazman.jpg"
+        },
+        {
+            "brandId": 87,
+            "brandName": "Mate Internet and Mobile",
+            "discount": "Up to $25",
+            "category": "Telecommunications",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/mate.png"
+        },
+        {
+            "brandId": 88,
+            "brandName": "Kate Spade",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kate Spade.png"
+        },
+        {
+            "brandId": 89,
+            "brandName": "VMware",
+            "discount": "10%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Vmware.png"
+        },
+        {
+            "brandId": 90,
+            "brandName": "Robins Kitchen",
+            "discount": "Up to 8%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Robins Kitchen.PNG"
+        },
+        {
+            "brandId": 91,
+            "brandName": "Hush Puppies Australia",
+            "discount": "10%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/hush puppies.png"
+        },
+        {
+            "brandId": 92,
+            "brandName": "180 Nutrition",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/180 Nutrition.png"
+        },
+        {
+            "brandId": 93,
+            "brandName": "Maurie & Eve",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Maurie %2B Eve.PNG"
+        },
+        {
+            "brandId": 94,
+            "brandName": "April & Oak",
+            "discount": "10%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/April Oak.PNG"
+        },
+        {
+            "brandId": 95,
+            "brandName": "DHgate",
+            "discount": "Up to 6%",
+            "category": "Online Retailer",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/dhgate-logo.png"
+        },
+        {
+            "brandId": 96,
+            "brandName": "Elka Collective",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Elka Collective.png"
+        },
+        {
+            "brandId": 97,
+            "brandName": "Scoopon",
+            "discount": "Up to 4%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/SCOOPON!.png"
+        },
+        {
+            "brandId": 98,
+            "brandName": "RY",
+            "discount": "Up to 8%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/RY.PNG"
+        },
+        {
+            "brandId": 99,
+            "brandName": "Ovo Energy ",
+            "discount": "$108",
+            "category": "Energy",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ovo Energy.png"
+        },
+        {
+            "brandId": 100,
+            "brandName": "Brava Lingerie ",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Brava.PNG"
+        },
+        {
+            "brandId": 101,
+            "brandName": "Harris Scarfe",
+            "discount": "5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/harris scarfe.png"
+        },
+        {
+            "brandId": 102,
+            "brandName": "Kipling",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kipling.png"
+        },
+        {
+            "brandId": 103,
+            "brandName": "Wish",
+            "discount": "Up to 1%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Wish.png"
+        },
+        {
+            "brandId": 104,
+            "brandName": "Bras N Things",
+            "discount": "Up to 5.40%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bras n Things.png"
+        },
+        {
+            "brandId": 105,
+            "brandName": "Costumes.com.au",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Costumes.PNG"
+        },
+        {
+            "brandId": 106,
+            "brandName": "Ecco Shoes ",
+            "discount": "7%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ecco.png"
+        },
+        {
+            "brandId": 107,
+            "brandName": "Jumbo Pets",
+            "discount": "6%",
+            "category": "Pet Products",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Jumbo Pets.PNG"
+        },
+        {
+            "brandId": 108,
+            "brandName": "Lucky Pet Supplies",
+            "discount": "6%",
+            "category": "Pet Products",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Lucky Pet Supplies.png 1.PNG"
+        },
+        {
+            "brandId": 109,
+            "brandName": "Juice Store",
+            "discount": "Up to 10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/JuiceStore.png"
+        },
+        {
+            "brandId": 110,
+            "brandName": "Kiwi.com",
+            "discount": "2.80%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kiwi.jpg"
+        },
+        {
+            "brandId": 111,
+            "brandName": "The Beach People",
+            "discount": "10%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Beach People.PNG"
+        },
+        {
+            "brandId": 112,
+            "brandName": "The Trybe ",
+            "discount": "5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Trybe.png"
+        },
+        {
+            "brandId": 113,
+            "brandName": "Buy My Things",
+            "discount": "5%",
+            "category": "Online Retailer,Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Buy my things.png"
+        },
+        {
+            "brandId": 114,
+            "brandName": "BOOZEBUD",
+            "discount": "6%",
+            "category": "Food & Beverage,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Boozebud.png"
+        },
+        {
+            "brandId": 115,
+            "brandName": "Alannah Hill",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Logo.png"
+        },
+        {
+            "brandId": 116,
+            "brandName": "JAG",
+            "discount": "5.5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/JAG-Logo-2019.png"
+        },
+        {
+            "brandId": 117,
+            "brandName": "Interflora",
+            "discount": "2%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Interflora.PNG"
+        },
+        {
+            "brandId": 118,
+            "brandName": "VetSupply.com.au",
+            "discount": "7%",
+            "category": "Pet Products",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Vet Supply.PNG"
+        },
+        {
+            "brandId": 119,
+            "brandName": "Neoflam",
+            "discount": "5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Neoflam.jpg"
+        },
+        {
+            "brandId": 120,
+            "brandName": "Pillow Talk",
+            "discount": "7%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Pillow Talk.png"
+        },
+        {
+            "brandId": 121,
+            "brandName": "Jeanswest",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Jeanswest.png"
+        },
+        {
+            "brandId": 122,
+            "brandName": "Marcs",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/MARCS.png"
+        },
+        {
+            "brandId": 123,
+            "brandName": "WorkwearHub",
+            "discount": "Up to 7%",
+            "category": "Footwear,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Workwearhub.png"
+        },
+        {
+            "brandId": 124,
+            "brandName": "Decathlon Australia",
+            "discount": "2%",
+            "category": "Sports & Fitness",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Decathlon.png"
+        },
+        {
+            "brandId": 125,
+            "brandName": "JD Sports",
+            "discount": "Up to 6%",
+            "category": "Adult & Kid's Clothing & Fashion,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/JD.png"
+        },
+        {
+            "brandId": 126,
+            "brandName": "OzGameShop",
+            "discount": "Up to 5%",
+            "category": "Children Games & Toys",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ozgameshop.jpg"
+        },
+        {
+            "brandId": 127,
+            "brandName": "Man Perfected",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Man Perfected.PNG"
+        },
+        {
+            "brandId": 128,
+            "brandName": "Mavi",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/mavi.png"
+        },
+        {
+            "brandId": 129,
+            "brandName": "Femplay",
+            "discount": "Up to 22%",
+            "category": "Adult Only Stores",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Femplay.PNG"
+        },
+        {
+            "brandId": 130,
+            "brandName": "Oz Hair and Beauty",
+            "discount": "Up to 8%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Oz hair %26 Beauty.png"
+        },
+        {
+            "brandId": 131,
+            "brandName": "Christmas Warehouse",
+            "discount": "3%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Christmas Warehouse.png"
+        },
+        {
+            "brandId": 132,
+            "brandName": "BCF",
+            "discount": "5%",
+            "category": "Activewear,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/BCF.png"
+        },
+        {
+            "brandId": 133,
+            "brandName": "Ensembl",
+            "discount": "5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ensembl.jpg"
+        },
+        {
+            "brandId": 134,
+            "brandName": "Organics on a Budget",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare,Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Oraganic on a budget.PNG"
+        },
+        {
+            "brandId": 135,
+            "brandName": "Estee Lauder",
+            "discount": "11%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/estee-lauder-1-logo-png-transparent.png"
+        },
+        {
+            "brandId": 136,
+            "brandName": "MyHeritage",
+            "discount": "6%",
+            "category": "Learning & Education",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/MyHeritage.PNG"
+        },
+        {
+            "brandId": 137,
+            "brandName": "Hema Maps",
+            "discount": "10%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hema Maps.png"
+        },
+        {
+            "brandId": 138,
+            "brandName": "Aveda",
+            "discount": "11%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/aveda.png"
+        },
+        {
+            "brandId": 139,
+            "brandName": "Mosmann Australia",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mosmann.png"
+        },
+        {
+            "brandId": 140,
+            "brandName": "Bicycles Online",
+            "discount": "4%",
+            "category": "Cars & Bikes & Accessories",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/bikesonline.png"
+        },
+        {
+            "brandId": 141,
+            "brandName": "CitySwoon",
+            "discount": "10%",
+            "category": "Dating",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/City Swoon.PNG"
+        },
+        {
+            "brandId": 142,
+            "brandName": "PETstock",
+            "discount": "7%",
+            "category": "Pet Products",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/petstock.png"
+        },
+        {
+            "brandId": 143,
+            "brandName": "Pretty Little Thing",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Pretty Little Thing.png"
+        },
+        {
+            "brandId": 144,
+            "brandName": "Macarthur Baskets",
+            "discount": "12%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Macarthur Basket.PNG"
+        },
+        {
+            "brandId": 145,
+            "brandName": "Kinnon",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kinnon.PNG"
+        },
+        {
+            "brandId": 146,
+            "brandName": "Rockmans",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Rockmans!.PNG"
+        },
+        {
+            "brandId": 147,
+            "brandName": "Superdry",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Superdry.png"
+        },
+        {
+            "brandId": 148,
+            "brandName": "Soon Maternity",
+            "discount": "12%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Soon maternity.PNG"
+        },
+        {
+            "brandId": 149,
+            "brandName": "Shhh Silk",
+            "discount": "8%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Shhh Silk.PNG"
+        },
+        {
+            "brandId": 150,
+            "brandName": "Lacoste",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/lacoste.png"
+        },
+        {
+            "brandId": 151,
+            "brandName": "LinkedIn Learning",
+            "discount": "Up to 35%",
+            "category": "Learning & Education",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/lynda.png"
+        },
+        {
+            "brandId": 152,
+            "brandName": "Merchant 1948",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Merchant 1948 (2).PNG"
+        },
+        {
+            "brandId": 153,
+            "brandName": "Curtain Wonderland",
+            "discount": "Up to 12%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Curtain Wonderland.png"
+        },
+        {
+            "brandId": 154,
+            "brandName": "Soho Skin Management",
+            "discount": "6%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/soho skincare.PNG"
+        },
+        {
+            "brandId": 155,
+            "brandName": "Olga Berg ",
+            "discount": "15%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/olga berg.PNG"
+        },
+        {
+            "brandId": 156,
+            "brandName": "Agoda",
+            "discount": "Up to 7%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/agoda.png"
+        },
+        {
+            "brandId": 157,
+            "brandName": "Platypus Shoes",
+            "discount": "Up to 5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Platypus.png"
+        },
+        {
+            "brandId": 158,
+            "brandName": "Mica Lighting",
+            "discount": "10%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mica Lighting.png"
+        },
+        {
+            "brandId": 159,
+            "brandName": "Sansdrinks",
+            "discount": "5%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/sansdrinks.png"
+        },
+        {
+            "brandId": 160,
+            "brandName": "The Book Depository",
+            "discount": "5%",
+            "category": "Learning & Education",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Depository-Logo.wine.png"
+        },
+        {
+            "brandId": 161,
+            "brandName": "CarHistory",
+            "discount": "Up to 20%",
+            "category": "Cars & Bikes & Accessories",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/carhistory.png"
+        },
+        {
+            "brandId": 162,
+            "brandName": "Matchbox",
+            "discount": "6%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Matchbox.png"
+        },
+        {
+            "brandId": 163,
+            "brandName": "TakeMeTour",
+            "discount": "8%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Take Me Tour.png"
+        },
+        {
+            "brandId": 164,
+            "brandName": "Contiki",
+            "discount": "5%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Contiki.png"
+        },
+        {
+            "brandId": 165,
+            "brandName": "Rusty",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Rusty.png"
+        },
+        {
+            "brandId": 166,
+            "brandName": "Macoda",
+            "discount": "5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Macoda-Logo.png"
+        },
+        {
+            "brandId": 167,
+            "brandName": "Cherub Baby Australia",
+            "discount": "10%",
+            "category": "Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Cherub Baby Australia.png"
+        },
+        {
+            "brandId": 168,
+            "brandName": "The Well Store",
+            "discount": "12%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Well Store.PNG"
+        },
+        {
+            "brandId": 169,
+            "brandName": "Petbarn",
+            "discount": "Up to 12%",
+            "category": "Pet Products,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Petbarn 1.png"
+        },
+        {
+            "brandId": 170,
+            "brandName": "SmartHome",
+            "discount": "4%",
+            "category": "Technology & Electronics,Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/SmartHome.png"
+        },
+        {
+            "brandId": 171,
+            "brandName": "Coach",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Coach.png"
+        },
+        {
+            "brandId": 172,
+            "brandName": "Zanui",
+            "discount": "Up to 7%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Zanui.PNG"
+        },
+        {
+            "brandId": 173,
+            "brandName": "ChicMe",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ChicMe.jpg"
+        },
+        {
+            "brandId": 174,
+            "brandName": "Toy Universe",
+            "discount": "5%",
+            "category": "Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Toy Universe.png"
+        },
+        {
+            "brandId": 175,
+            "brandName": "Wiggle",
+            "discount": "3.5%",
+            "category": "Activewear,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/wiggle.png"
+        },
+        {
+            "brandId": 176,
+            "brandName": "Dangerfield",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Dangerfield.png"
+        },
+        {
+            "brandId": 177,
+            "brandName": "Langtons ",
+            "discount": "10%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Langtons.png"
+        },
+        {
+            "brandId": 178,
+            "brandName": "Gorman",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/gorman.png"
+        },
+        {
+            "brandId": 179,
+            "brandName": "CrazySales",
+            "discount": "5%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Crazy sales.png"
+        },
+        {
+            "brandId": 180,
+            "brandName": "Billabong",
+            "discount": "1%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Billabong 1.png"
+        },
+        {
+            "brandId": 181,
+            "brandName": "Oroton",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Oroton.png"
+        },
+        {
+            "brandId": 182,
+            "brandName": "GUESS",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Guess.png"
+        },
+        {
+            "brandId": 183,
+            "brandName": "Gelpro Australia",
+            "discount": "10%",
+            "category": "Food & Beverage,Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Gelpro.PNG"
+        },
+        {
+            "brandId": 184,
+            "brandName": "Love Your Health",
+            "discount": "7.5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Love your health.png"
+        },
+        {
+            "brandId": 185,
+            "brandName": "Onnit",
+            "discount": "Up to 15%",
+            "category": "Sports & Fitness,Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Onit.png"
+        },
+        {
+            "brandId": 186,
+            "brandName": "Hamilton Island",
+            "discount": "6%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hamilton-Island.png"
+        },
+        {
+            "brandId": 187,
+            "brandName": "Forever New",
+            "discount": "4%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Forever NEW.PNG"
+        },
+        {
+            "brandId": 188,
+            "brandName": "Lookfantastic ",
+            "discount": "Up to 10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Lookfantastic.PNG"
+        },
+        {
+            "brandId": 189,
+            "brandName": "LXRandCo",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/LXR And CO.png"
+        },
+        {
+            "brandId": 190,
+            "brandName": "Lululemon",
+            "discount": "7%",
+            "category": "Activewear,Popular,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Lululemon.png"
+        },
+        {
+            "brandId": 191,
+            "brandName": "Currentbody ",
+            "discount": "Up to 6%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/CurrentBody.png"
+        },
+        {
+            "brandId": 192,
+            "brandName": "Bump Shoes",
+            "discount": "7.5%",
+            "category": "Footwear,Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bump Shoes.PNG"
+        },
+        {
+            "brandId": 193,
+            "brandName": "Weightwatchers Reimagined",
+            "discount": "$56.00 per sale",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/WW Reimagined.png"
+        },
+        {
+            "brandId": 194,
+            "brandName": "Volley Australia",
+            "discount": "10%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Volley.png"
+        },
+        {
+            "brandId": 195,
+            "brandName": "Wrangler ",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion ",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Wrangler.PNG"
+        },
+        {
+            "brandId": 196,
+            "brandName": "Best&Less",
+            "discount": "2%",
+            "category": "Adult & Kid's Clothing & Fashion,Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/BEST %26 LESS.png"
+        },
+        {
+            "brandId": 197,
+            "brandName": "Catwalk",
+            "discount": "5.5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Catwalk.PNG"
+        },
+        {
+            "brandId": 198,
+            "brandName": "Royal Doulton",
+            "discount": "10%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/RD.png"
+        },
+        {
+            "brandId": 199,
+            "brandName": "City Perfume",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/City Perfume.PNG"
+        },
+        {
+            "brandId": 200,
+            "brandName": "PureSmile ",
+            "discount": "8%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Pure Smile.png"
+        },
+        {
+            "brandId": 201,
+            "brandName": "Find Sports",
+            "discount": "10%",
+            "category": "Activewear,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/findsports.png"
+        },
+        {
+            "brandId": 202,
+            "brandName": "Biome Eco Stores",
+            "discount": "Up to 10%",
+            "category": "Department Stores & Homewares,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Biome-Eco-Stores-Logo.png"
+        },
+        {
+            "brandId": 203,
+            "brandName": "Michael Kors",
+            "discount": "3%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Michael Kors.PNG"
+        },
+        {
+            "brandId": 204,
+            "brandName": "Purebaby",
+            "discount": "5%",
+            "category": "Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Purebaby.png"
+        },
+        {
+            "brandId": 205,
+            "brandName": "Wireless 1",
+            "discount": "Up to 4%",
+            "category": "Technology & Electronics,Telecommunications",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Wireless 1.png"
+        },
+        {
+            "brandId": 206,
+            "brandName": "Chemist Direct",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Chemisht Direct.PNG"
+        },
+        {
+            "brandId": 207,
+            "brandName": "Uber (by Le Tan)",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Uber by Le Tan.png"
+        },
+        {
+            "brandId": 208,
+            "brandName": "Black Iris",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/BLACK-IRIS-LOGO-off-black_240x.png"
+        },
+        {
+            "brandId": 209,
+            "brandName": "Hugo Sleep",
+            "discount": "6%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hugo Mattresses.PNG"
+        },
+        {
+            "brandId": 210,
+            "brandName": "Gourmet Basket",
+            "discount": "10%",
+            "category": "Food & Beverage,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Gourmet Basket.png"
+        },
+        {
+            "brandId": 211,
+            "brandName": "Novo Shoes",
+            "discount": "8%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Novo Logo.png"
+        },
+        {
+            "brandId": 212,
+            "brandName": "Adore Beauty",
+            "discount": "Up to 6% ",
+            "category": "Cosmetics & Healthcare,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Adore Beauty.png"
+        },
+        {
+            "brandId": 213,
+            "brandName": "SHEIN",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Shein.png"
+        },
+        {
+            "brandId": 214,
+            "brandName": "Cookware Brands",
+            "discount": "7%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Cookware Brands.png"
+        },
+        {
+            "brandId": 215,
+            "brandName": "SABA",
+            "discount": "5.50%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/SABA.png"
+        },
+        {
+            "brandId": 216,
+            "brandName": "Auguste The Label",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Auguste.png"
+        },
+        {
+            "brandId": 217,
+            "brandName": "BullGuard",
+            "discount": "35%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/BullGuard.png"
+        },
+        {
+            "brandId": 218,
+            "brandName": "Paula's Choice",
+            "discount": "7%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Paulas Choice Skincare.png"
+        },
+        {
+            "brandId": 219,
+            "brandName": "Specsavers",
+            "discount": "Up to 4%",
+            "category": "Eyewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Specsavers.png"
+        },
+        {
+            "brandId": 220,
+            "brandName": "Sheridan Outlet",
+            "discount": "6%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Sheridan outlet.png"
+        },
+        {
+            "brandId": 221,
+            "brandName": "All Clear",
+            "discount": "10%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ALLCLEAR-LOGO-STANDARD-1.png"
+        },
+        {
+            "brandId": 222,
+            "brandName": "Crossroads",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Crossroads.PNG"
+        },
+        {
+            "brandId": 223,
+            "brandName": "Jurlique",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Jurlique.png"
+        },
+        {
+            "brandId": 224,
+            "brandName": "P.E Nation",
+            "discount": "5%",
+            "category": "Activewear,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/PE Nation.png"
+        },
+        {
+            "brandId": 225,
+            "brandName": "GlamCorner",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/GlamCorner.png"
+        },
+        {
+            "brandId": 226,
+            "brandName": "Ark & Arrow",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ark & Arrow.png"
+        },
+        {
+            "brandId": 227,
+            "brandName": "MANRAGS",
+            "discount": "20%",
+            "category": "Adult & Kid's Clothing & Fashion,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Manrags.PNG"
+        },
+        {
+            "brandId": 228,
+            "brandName": "Catch.com.au",
+            "discount": "Up to 6.24%",
+            "category": "Online Retailer,Popular,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Catch.png"
+        },
+        {
+            "brandId": 229,
+            "brandName": "AMR Hair & Beauty",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/AMR Hair %26 Beauty.PNG"
+        },
+        {
+            "brandId": 230,
+            "brandName": "Bugaboo",
+            "discount": "3%",
+            "category": "Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bugaboo.jpg"
+        },
+        {
+            "brandId": 231,
+            "brandName": "Liquorland",
+            "discount": "Up to 3.5%",
+            "category": "Food & Drinks",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/liquorland.png"
+        },
+        {
+            "brandId": 232,
+            "brandName": "Naturally Sweet",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare,Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Naturally Sweet.PNG"
+        },
+        {
+            "brandId": 233,
+            "brandName": "Ecosa",
+            "discount": "2%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ecosa.PNG"
+        },
+        {
+            "brandId": 234,
+            "brandName": "Booktopia",
+            "discount": "7.5%",
+            "category": "Learning & Education,Retail & Gifts,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/logo booktopia.png"
+        },
+        {
+            "brandId": 235,
+            "brandName": "Puma",
+            "discount": "9.5%",
+            "category": "Activewear,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/puma.png"
+        },
+        {
+            "brandId": 236,
+            "brandName": "ECHT",
+            "discount": "5%",
+            "category": "Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Echt.png"
+        },
+        {
+            "brandId": 237,
+            "brandName": "D+k",
+            "discount": "20%",
+            "category": "Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/d%2Bk.PNG"
+        },
+        {
+            "brandId": 238,
+            "brandName": "Lego",
+            "discount": "3%",
+            "category": "Children Games & Toys,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/lego logo.png"
+        },
+        {
+            "brandId": 239,
+            "brandName": "BRITA",
+            "discount": "10%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/BRITA.PNG"
+        },
+        {
+            "brandId": 240,
+            "brandName": "Zaful",
+            "discount": "Up to 20%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Zaful.png"
+        },
+        {
+            "brandId": 241,
+            "brandName": "French Connection",
+            "discount": "6.2%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/French Connection.png"
+        },
+        {
+            "brandId": 242,
+            "brandName": "Code Camp",
+            "discount": "7.5%",
+            "category": "Learning & Education",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Code Cmap.png"
+        },
+        {
+            "brandId": 243,
+            "brandName": "Bluebella",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bluebella.png"
+        },
+        {
+            "brandId": 244,
+            "brandName": "Device Deal",
+            "discount": "Up to 4%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Device Deal.png"
+        },
+        {
+            "brandId": 245,
+            "brandName": "Kong Box",
+            "discount": "US$16",
+            "category": "Pet Products",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/kong-logo-red.png"
+        },
+        {
+            "brandId": 246,
+            "brandName": "Baby Bunting",
+            "discount": "5%",
+            "category": "Baby & Childcare,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Baby Bunting.png"
+        },
+        {
+            "brandId": 247,
+            "brandName": "Sportitude",
+            "discount": "7%",
+            "category": "Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Sportitude.png"
+        },
+        {
+            "brandId": 248,
+            "brandName": "Connor",
+            "discount": "Up to 7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Connor.PNG"
+        },
+        {
+            "brandId": 249,
+            "brandName": "Glue Store",
+            "discount": "Up to 6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Glue.PNG"
+        },
+        {
+            "brandId": 250,
+            "brandName": "Wine Selectors",
+            "discount": "10%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Wine Selectors.png"
+        },
+        {
+            "brandId": 251,
+            "brandName": "SOKO",
+            "discount": "12%",
+            "category": "Jewellery",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Soko.png"
+        },
+        {
+            "brandId": 252,
+            "brandName": "Rollie Nation",
+            "discount": "8%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Rolliee.PNG"
+        },
+        {
+            "brandId": 253,
+            "brandName": "Cue ",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Cue.PNG"
+        },
+        {
+            "brandId": 254,
+            "brandName": "Giuseppe Zanotti",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Giuseppe.png"
+        },
+        {
+            "brandId": 255,
+            "brandName": "Moonpig",
+            "discount": "7%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/moonpig.png"
+        },
+        {
+            "brandId": 256,
+            "brandName": "Dessert Boxes",
+            "discount": "10%",
+            "category": "Food & Beverage,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Dessert Boxes.jpg"
+        },
+        {
+            "brandId": 257,
+            "brandName": "Tropeaka",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/tropeaka.jpg"
+        },
+        {
+            "brandId": 258,
+            "brandName": "Nisbets Australia",
+            "discount": "5%",
+            "category": "Online Retailer,Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Nisbets.PNG"
+        },
+        {
+            "brandId": 259,
+            "brandName": "Vans Australia",
+            "discount": "Up to 5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Vans Australia.png"
+        },
+        {
+            "brandId": 260,
+            "brandName": "Hyper Shop",
+            "discount": "4%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hyper.png"
+        },
+        {
+            "brandId": 261,
+            "brandName": "Factorie",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Factorie.png"
+        },
+        {
+            "brandId": 262,
+            "brandName": "Bright Star Buddies",
+            "discount": "10%",
+            "category": "Pet Products",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bright Star Buddies.png"
+        },
+        {
+            "brandId": 263,
+            "brandName": "Modibodi",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ModiBodi.PNG"
+        },
+        {
+            "brandId": 264,
+            "brandName": "Lovely Wholesale",
+            "discount": "14%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Lovely Wholesale.png"
+        },
+        {
+            "brandId": 265,
+            "brandName": "Muscle Nation",
+            "discount": "10% ",
+            "category": "Sports & Fitness",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Muscle Nation.png"
+        },
+        {
+            "brandId": 266,
+            "brandName": "ModelCo",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ModelCo.png"
+        },
+        {
+            "brandId": 267,
+            "brandName": "BWS",
+            "discount": "2.25%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/BWS.png"
+        },
+        {
+            "brandId": 268,
+            "brandName": "My Generator",
+            "discount": "Up to 3.5%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/My.PNG"
+        },
+        {
+            "brandId": 269,
+            "brandName": "Ella Bache",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ella Bache.PNG"
+        },
+        {
+            "brandId": 270,
+            "brandName": "Plumguide",
+            "discount": "5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Plum Guide.png"
+        },
+        {
+            "brandId": 271,
+            "brandName": "Kidsroom Global",
+            "discount": "4%",
+            "category": "Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/logo-kidsroom_de.png"
+        },
+        {
+            "brandId": 272,
+            "brandName": "Europcar",
+            "discount": "8% ",
+            "category": "Holiday & Travel,Cars & Bikes & Accessories",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Europcar.png"
+        },
+        {
+            "brandId": 273,
+            "brandName": "Zavvi International",
+            "discount": "Up to 8%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Zavvi.png"
+        },
+        {
+            "brandId": 274,
+            "brandName": "Coltorti Boutique",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Coltorti.png"
+        },
+        {
+            "brandId": 275,
+            "brandName": "Julius Marlow",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Julius Marlow.png"
+        },
+        {
+            "brandId": 276,
+            "brandName": "Nautica",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Nautica.png"
+        },
+        {
+            "brandId": 277,
+            "brandName": "Just Wines",
+            "discount": "6%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Just Wines.png"
+        },
+        {
+            "brandId": 278,
+            "brandName": "Zodiac Shoes",
+            "discount": "3%",
+            "category": "Adult & Kid's Clothing & Fashion,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Zodiac.jpg"
+        },
+        {
+            "brandId": 279,
+            "brandName": "Shaver Shop (AU)",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Shaver Sho.PNG"
+        },
+        {
+            "brandId": 280,
+            "brandName": "In Essence",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/in-essence-logo-final.png"
+        },
+        {
+            "brandId": 281,
+            "brandName": "Bedworks",
+            "discount": "3%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bed Works.png"
+        },
+        {
+            "brandId": 282,
+            "brandName": "Nike",
+            "discount": "Up to 4%",
+            "category": "Activewear,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Nike.png"
+        },
+        {
+            "brandId": 283,
+            "brandName": "Brook & York Jewelry",
+            "discount": "10%",
+            "category": "Jewellery",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Brook %26 York.png"
+        },
+        {
+            "brandId": 284,
+            "brandName": "Beautopia ",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/1200x1200.png"
+        },
+        {
+            "brandId": 285,
+            "brandName": "Seed Heritage",
+            "discount": "5.6%",
+            "category": "Adult & Kid's Clothing & Fashion,Popular,Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/seed-heritage-logo.png"
+        },
+        {
+            "brandId": 286,
+            "brandName": "Mini In The Box",
+            "discount": "12%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mini In The Box.png"
+        },
+        {
+            "brandId": 287,
+            "brandName": "Edisons",
+            "discount": "5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Edison.PNG"
+        },
+        {
+            "brandId": 288,
+            "brandName": "Australis",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Australis.png"
+        },
+        {
+            "brandId": 289,
+            "brandName": "Clinique",
+            "discount": "9%",
+            "category": "Cosmetics & Healthcare,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/logo-clinique.png"
+        },
+        {
+            "brandId": 290,
+            "brandName": "KKday",
+            "discount": "4%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kkday.png"
+        },
+        {
+            "brandId": 291,
+            "brandName": "Belkin",
+            "discount": "4%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/belkin.png"
+        },
+        {
+            "brandId": 292,
+            "brandName": "Jo Malone",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/jo malone.png"
+        },
+        {
+            "brandId": 293,
+            "brandName": "Gifts Australia",
+            "discount": "10%",
+            "category": "Personalised Gifts ",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/gifts australia.png"
+        },
+        {
+            "brandId": 294,
+            "brandName": "Yardgames",
+            "discount": "Up to 15%",
+            "category": "Children Games & Toys",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Yardgames.PNG"
+        },
+        {
+            "brandId": 295,
+            "brandName": "Tarocash",
+            "discount": "Up to 7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Tarocash.png"
+        },
+        {
+            "brandId": 296,
+            "brandName": "Princess Highway",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/princess highway.png"
+        },
+        {
+            "brandId": 297,
+            "brandName": "Happy Socks",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Logo.svg.png"
+        },
+        {
+            "brandId": 298,
+            "brandName": "Ghd",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ghd.png"
+        },
+        {
+            "brandId": 299,
+            "brandName": "Autograph",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Autograph.PNG"
+        },
+        {
+            "brandId": 300,
+            "brandName": "Ziani Beauty",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ziani Beauty.png"
+        },
+        {
+            "brandId": 301,
+            "brandName": "Lenovo",
+            "discount": "4.55%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/lenovo.png"
+        },
+        {
+            "brandId": 302,
+            "brandName": "Nestz",
+            "discount": "Up to 8%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Nestz.PNG"
+        },
+        {
+            "brandId": 303,
+            "brandName": "W Lane",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/W Lane.png"
+        },
+        {
+            "brandId": 304,
+            "brandName": "Bed Bath N' Table",
+            "discount": "7.5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bed Bath N Table.png"
+        },
+        {
+            "brandId": 305,
+            "brandName": "Maxpeedingrods",
+            "discount": "Up to 12%",
+            "category": "Cars & Bikes & Accessories",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Maxpeedingrods logo.png"
+        },
+        {
+            "brandId": 306,
+            "brandName": "MISHA",
+            "discount": "12%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/MISHA.PNG"
+        },
+        {
+            "brandId": 307,
+            "brandName": "Bronson Vitamins",
+            "discount": "3%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bronson.jpg"
+        },
+        {
+            "brandId": 308,
+            "brandName": "Bodum",
+            "discount": "7%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bodum.png"
+        },
+        {
+            "brandId": 309,
+            "brandName": "ParlourX",
+            "discount": "4%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Parlour X.png"
+        },
+        {
+            "brandId": 310,
+            "brandName": "DriveNow",
+            "discount": "5%",
+            "category": "Cars & Bikes & Accessories,Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Drive Now.PNG"
+        },
+        {
+            "brandId": 311,
+            "brandName": "Vivino",
+            "discount": "Up to 8%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/vivino logo.png"
+        },
+        {
+            "brandId": 312,
+            "brandName": "Nine West",
+            "discount": "6%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Nine West.png"
+        },
+        {
+            "brandId": 313,
+            "brandName": "First Choice Liquor",
+            "discount": "Up to 3%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/First Choice Liquor.png"
+        },
+        {
+            "brandId": 314,
+            "brandName": "Pots & Pans",
+            "discount": "Up to 6%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/pots & pans.png"
+        },
+        {
+            "brandId": 315,
+            "brandName": "UGG",
+            "discount": "6%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/UGG.png"
+        },
+        {
+            "brandId": 316,
+            "brandName": "Mountain Steals",
+            "discount": "Up to 5%",
+            "category": "Adult & Kid's Clothing & Fashion,Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mountain Steals.png"
+        },
+        {
+            "brandId": 317,
+            "brandName": "1001 Optical",
+            "discount": "10%",
+            "category": "Eyewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/1001 Optical.png"
+        },
+        {
+            "brandId": 318,
+            "brandName": "Cotton On",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Cotton On.png"
+        },
+        {
+            "brandId": 319,
+            "brandName": "Skechers",
+            "discount": "Up to 5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/SKETCHERS.png"
+        },
+        {
+            "brandId": 320,
+            "brandName": "Rebecca Vallance",
+            "discount": "12%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Rebecca Vallance.jpg"
+        },
+        {
+            "brandId": 321,
+            "brandName": "Bamboo Body",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bamboo Body.png"
+        },
+        {
+            "brandId": 322,
+            "brandName": "Jo Mercer",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Jo Mercer.png"
+        },
+        {
+            "brandId": 323,
+            "brandName": "HelloDrinks",
+            "discount": "5%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hello Drinks.png"
+        },
+        {
+            "brandId": 324,
+            "brandName": "Doorstep Organics",
+            "discount": "Up to 5%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Doorstep Organics.jpg"
+        },
+        {
+            "brandId": 325,
+            "brandName": "Koko Black ",
+            "discount": "10%",
+            "category": "Food & Beverage,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/KOKO BLACK.png"
+        },
+        {
+            "brandId": 326,
+            "brandName": "Czarina",
+            "discount": "15%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Czarina.jpg"
+        },
+        {
+            "brandId": 327,
+            "brandName": "The Good Guys",
+            "discount": "Up to 3%",
+            "category": "Technology & Electronics,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Good Guys.PNG"
+        },
+        {
+            "brandId": 328,
+            "brandName": "The Beauty Chef",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare ",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Beauty Chef.jpg"
+        },
+        {
+            "brandId": 329,
+            "brandName": "Van Heusen",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Van Heusen.png"
+        },
+        {
+            "brandId": 330,
+            "brandName": "Booking.com",
+            "discount": "4%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Booking.png"
+        },
+        {
+            "brandId": 331,
+            "brandName": "My Muscle Chef",
+            "discount": "Up to 10%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/My MC.png"
+        },
+        {
+            "brandId": 332,
+            "brandName": "Revolution Beauty",
+            "discount": "Up to 4% ",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Revolution Beauty.png"
+        },
+        {
+            "brandId": 333,
+            "brandName": "Marks & Spencer",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion,Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/marks %26 spencer.png"
+        },
+        {
+            "brandId": 334,
+            "brandName": "Mr Simple",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mr Simple.png"
+        },
+        {
+            "brandId": 335,
+            "brandName": "Fit Nutrition",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Fit Nutrition 1.PNG"
+        },
+        {
+            "brandId": 336,
+            "brandName": "Eleonora Bonucci",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Eleonora Bonucci.png"
+        },
+        {
+            "brandId": 337,
+            "brandName": "Mick Fanning Boards",
+            "discount": "5%",
+            "category": "Sports & Fitness",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mick Fanning Softboards.png"
+        },
+        {
+            "brandId": 338,
+            "brandName": "Amber Sceats",
+            "discount": "15%",
+            "category": "Jewellery",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Amber Sceats.PNG"
+        },
+        {
+            "brandId": 339,
+            "brandName": "Dick Smith",
+            "discount": "0.75%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Dick Smith.jpg"
+        },
+        {
+            "brandId": 340,
+            "brandName": "Luxe Bouquet",
+            "discount": "7%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Luxe Bouquet.png"
+        },
+        {
+            "brandId": 341,
+            "brandName": "Ruifier",
+            "discount": "Up to 8%",
+            "category": "Jewellery",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ruifier.png"
+        },
+        {
+            "brandId": 342,
+            "brandName": "G95 Apparel ",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/g95.png"
+        },
+        {
+            "brandId": 343,
+            "brandName": "Inkspot ",
+            "discount": "Up to 10%",
+            "category": "Business Supplies & Services",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/inkspot.PNG"
+        },
+        {
+            "brandId": 344,
+            "brandName": "Tools Warehouse",
+            "discount": "6%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Tools Warehouse.PNG"
+        },
+        {
+            "brandId": 345,
+            "brandName": "Sperry",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Sperry.png"
+        },
+        {
+            "brandId": 346,
+            "brandName": "Adrift",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/adrift.PNG"
+        },
+        {
+            "brandId": 347,
+            "brandName": "Windsor Smith",
+            "discount": "Up to 5% ",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Windsor Smith.PNG"
+        },
+        {
+            "brandId": 348,
+            "brandName": "Merino & Co",
+            "discount": "7.5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Merino %26 Co.PNG"
+        },
+        {
+            "brandId": 349,
+            "brandName": "Youfoodz",
+            "discount": "Up to 6%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/youfoodz.png"
+        },
+        {
+            "brandId": 350,
+            "brandName": "Glenmuir",
+            "discount": "4%",
+            "category": "Adult & Kid's Clothing & Fashion,Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Glenmuir.PNG"
+        },
+        {
+            "brandId": 351,
+            "brandName": "Kitchen Style",
+            "discount": "5.5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kitchen Style.jpg"
+        },
+        {
+            "brandId": 352,
+            "brandName": "L'OCCITANE",
+            "discount": "3%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/L.png"
+        },
+        {
+            "brandId": 353,
+            "brandName": "Wendy Wu Tours",
+            "discount": "8%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Wendy Wu Tours.PNG"
+        },
+        {
+            "brandId": 354,
+            "brandName": "Little Baby Paws",
+            "discount": "10%",
+            "category": "Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Little baby paws.png"
+        },
+        {
+            "brandId": 355,
+            "brandName": "HP Australia",
+            "discount": "3.5%",
+            "category": "Technology & Electronics",
+            "logoURL": null
+        },
+        {
+            "brandId": 356,
+            "brandName": "Walnut Melbourne",
+            "discount": "10%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Walnut.jpg"
+        },
+        {
+            "brandId": 357,
+            "brandName": "Myer",
+            "discount": "Up to 4%",
+            "category": "Department Stores & Homewares,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Myer.jpg"
+        },
+        {
+            "brandId": 358,
+            "brandName": "Gym Direct",
+            "discount": "10%",
+            "category": "Sports & Fitness",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Gym Direct.png"
+        },
+        {
+            "brandId": 359,
+            "brandName": "Brewquets",
+            "discount": "5%",
+            "category": "Retail & Gifts,Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/brewquets.png"
+        },
+        {
+            "brandId": 360,
+            "brandName": "Kikki.K",
+            "discount": "7%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/logo kiki.k.png"
+        },
+        {
+            "brandId": 361,
+            "brandName": "Timberland",
+            "discount": "5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Timberland.png"
+        },
+        {
+            "brandId": 362,
+            "brandName": "Regal Sleep Solutions",
+            "discount": "10%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Regal Sleep Solutions.png"
+        },
+        {
+            "brandId": 363,
+            "brandName": "St Frock",
+            "discount": "Up to 8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/stfrock-logom.png"
+        },
+        {
+            "brandId": 364,
+            "brandName": "BannerBuzz",
+            "discount": "6%",
+            "category": "Business Supplies & Services",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/BannerBuzz.png"
+        },
+        {
+            "brandId": 365,
+            "brandName": "Direct Art Australia ",
+            "discount": "6.5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Direct Art Australia.png"
+        },
+        {
+            "brandId": 366,
+            "brandName": "Lowes",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/LOWES.jpg"
+        },
+        {
+            "brandId": 367,
+            "brandName": "My Pet Warehouse",
+            "discount": "6.5%",
+            "category": "Pet Products",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/large.png"
+        },
+        {
+            "brandId": 368,
+            "brandName": "The Lady Shake",
+            "discount": "8%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Lady Shake.PNG"
+        },
+        {
+            "brandId": 369,
+            "brandName": "Blackmores",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Blackmores.png"
+        },
+        {
+            "brandId": 370,
+            "brandName": "ASICS",
+            "discount": "10%",
+            "category": "Footwear,Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ASICS.png"
+        },
+        {
+            "brandId": 371,
+            "brandName": "IVRose",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/IVRose.PNG"
+        },
+        {
+            "brandId": 372,
+            "brandName": "Anine Bing",
+            "discount": "Up to 8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Anine Bing.png"
+        },
+        {
+            "brandId": 373,
+            "brandName": "Oobi",
+            "discount": "10%",
+            "category": "Baby & Childcare,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Oobi.png"
+        },
+        {
+            "brandId": 374,
+            "brandName": "New Balance",
+            "discount": "Up to 5%",
+            "category": "Activewear,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/New Balance.png"
+        },
+        {
+            "brandId": 375,
+            "brandName": "Adairs",
+            "discount": "6%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/adairs.png"
+        },
+        {
+            "brandId": 376,
+            "brandName": "Angus & Robertson",
+            "discount": "Up to 7.5%",
+            "category": "Learning & Education,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/logo angus %26 robertson (1).png"
+        },
+        {
+            "brandId": 377,
+            "brandName": "Hardtofind.com.au",
+            "discount": "5%",
+            "category": "Online Retailer",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/hard to find.PNG"
+        },
+        {
+            "brandId": 378,
+            "brandName": "Petals Network",
+            "discount": "15%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Petals Florist Network.png"
+        },
+        {
+            "brandId": 379,
+            "brandName": "FAN+",
+            "discount": "5%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Fan %2B.jpg"
+        },
+        {
+            "brandId": 380,
+            "brandName": "ONTHEGO ",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion,Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/OTG.PNG"
+        },
+        {
+            "brandId": 381,
+            "brandName": "OzSale",
+            "discount": "4%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/OzSale.jpg"
+        },
+        {
+            "brandId": 382,
+            "brandName": "Facial Co",
+            "discount": "Up to 8%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Facial Co.PNG"
+        },
+        {
+            "brandId": 383,
+            "brandName": "Myprotein APAC",
+            "discount": "Up to 8%",
+            "category": "Food & Beverage,Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/My Protein.PNG"
+        },
+        {
+            "brandId": 384,
+            "brandName": "Boody Eco Wear",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Boody.PNG"
+        },
+        {
+            "brandId": 385,
+            "brandName": "Fossil",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Fossil.png"
+        },
+        {
+            "brandId": 386,
+            "brandName": "Mapiful",
+            "discount": "Up to 15%",
+            "category": "Personalised Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mapiful.png"
+        },
+        {
+            "brandId": 387,
+            "brandName": "Bed Threads",
+            "discount": "5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bed Threads 1.PNG"
+        },
+        {
+            "brandId": 388,
+            "brandName": "The North Face",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion ",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The North Face.png"
+        },
+        {
+            "brandId": 389,
+            "brandName": "Hard Yakka",
+            "discount": "9%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hard Yakka.png"
+        },
+        {
+            "brandId": 390,
+            "brandName": "Activ8me",
+            "discount": "$50.00 per Sale",
+            "category": "Business Supplies & Services",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/activ8me-logo.png"
+        },
+        {
+            "brandId": 391,
+            "brandName": "Stylerunner",
+            "discount": "5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Stylerunner.png"
+        },
+        {
+            "brandId": 392,
+            "brandName": "Foot Locker",
+            "discount": "Up to 8%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Foot Locker.png"
+        },
+        {
+            "brandId": 393,
+            "brandName": "Ivacy VPN",
+            "discount": "40% ",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ivacy.jpg"
+        },
+        {
+            "brandId": 394,
+            "brandName": "HelloFresh",
+            "discount": "$19.00",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hello Fresh.png"
+        },
+        {
+            "brandId": 395,
+            "brandName": "City Beach",
+            "discount": "Up to 7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/City Beach.png"
+        },
+        {
+            "brandId": 396,
+            "brandName": "Remedy Drinks",
+            "discount": "8%",
+            "category": "Food & Beverage,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Remedy Drinks.png"
+        },
+        {
+            "brandId": 397,
+            "brandName": "Blue Bungalow",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Blue Bungalow.png"
+        },
+        {
+            "brandId": 398,
+            "brandName": "Trunki",
+            "discount": "5%",
+            "category": "Baby & Childcare,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Trunki.jpg"
+        },
+        {
+            "brandId": 399,
+            "brandName": "Tigerlily",
+            "discount": "Up to 8%",
+            "category": "Adult & Kid's Clothing & Fashion ",
+            "logoURL": null
+        },
+        {
+            "brandId": 400,
+            "brandName": "Hallenstein Brothers",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hallenstein Brothers.png"
+        },
+        {
+            "brandId": 401,
+            "brandName": "Huda Beauty",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Huda Beauty.png"
+        },
+        {
+            "brandId": 402,
+            "brandName": "The Spy Store",
+            "discount": "10%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Spy Store.PNG"
+        },
+        {
+            "brandId": 403,
+            "brandName": "FitMyCar",
+            "discount": "10%",
+            "category": "Cars & Bikes & Accessories",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/FitMyCar.jpg"
+        },
+        {
+            "brandId": 404,
+            "brandName": "Crabtree & Evelyn",
+            "discount": "7%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Crabtree.png"
+        },
+        {
+            "brandId": 405,
+            "brandName": "Autodesk",
+            "discount": "9%",
+            "category": "Business Supplies & Services",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/autodesk.png"
+        },
+        {
+            "brandId": 406,
+            "brandName": "Yellow Octopus",
+            "discount": "Up to 10%",
+            "category": "Children Games & Toys,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/yellow-octopus-logo.jpg"
+        },
+        {
+            "brandId": 407,
+            "brandName": "Caravan RV Camping",
+            "discount": "Up to 4.5%",
+            "category": "Cars & Bikes & Accessories",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Caravan RV Camping.png"
+        },
+        {
+            "brandId": 408,
+            "brandName": "Fortunate One",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Fortunate One.PNG"
+        },
+        {
+            "brandId": 409,
+            "brandName": "Kogan",
+            "discount": "4%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kogan.jpg"
+        },
+        {
+            "brandId": 410,
+            "brandName": "Camilla",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Camilla.png"
+        },
+        {
+            "brandId": 411,
+            "brandName": "Bright Star Kids",
+            "discount": "10%",
+            "category": "Baby & Childcare,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bright Star Kids.PNG"
+        },
+        {
+            "brandId": 412,
+            "brandName": "Bambury ",
+            "discount": "10%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bambury.PNG"
+        },
+        {
+            "brandId": 413,
+            "brandName": "Lyre's",
+            "discount": "10%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Lyre's.png"
+        },
+        {
+            "brandId": 414,
+            "brandName": "Naturopress Cold Press Juicer",
+            "discount": "15%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Naturopress.jpg"
+        },
+        {
+            "brandId": 415,
+            "brandName": "Poncho Insurance",
+            "discount": "20%",
+            "category": "Cars & Bikes & Accessories,Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/poncho-insurance-logo.png"
+        },
+        {
+            "brandId": 416,
+            "brandName": "Lee Jeans",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/lee jeans.png"
+        },
+        {
+            "brandId": 417,
+            "brandName": "Pillow Guy",
+            "discount": "10%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Pillow Guy.png"
+        },
+        {
+            "brandId": 418,
+            "brandName": "Logitech",
+            "discount": "Up to 5%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Logitech.png"
+        },
+        {
+            "brandId": 419,
+            "brandName": "NastyGal",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Nasty Gal.png"
+        },
+        {
+            "brandId": 420,
+            "brandName": "Hype DC",
+            "discount": "Up to 5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/hype dc.png"
+        },
+        {
+            "brandId": 421,
+            "brandName": "QEEQ",
+            "discount": "5%",
+            "category": "Cars & Bikes & Accessories,Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/QEEQ.png"
+        },
+        {
+            "brandId": 422,
+            "brandName": "SHIELS",
+            "discount": "10%",
+            "category": "Jewellery",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Shiels.jpg"
+        },
+        {
+            "brandId": 423,
+            "brandName": "Rivers",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Rivers.png"
+        },
+        {
+            "brandId": 424,
+            "brandName": "TomTom",
+            "discount": "2%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Tom Tom.png"
+        },
+        {
+            "brandId": 425,
+            "brandName": "Sass & bide",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Sass and Bide.png"
+        },
+        {
+            "brandId": 426,
+            "brandName": "Bally",
+            "discount": "Up to 4%",
+            "category": "Adult & Kid's Clothing & Fashion,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bally.png"
+        },
+        {
+            "brandId": 427,
+            "brandName": "Short Story",
+            "discount": "10%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Short Story.PNG"
+        },
+        {
+            "brandId": 428,
+            "brandName": "Australian NaturalCare",
+            "discount": "10% ",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Australian Naturalcare.png"
+        },
+        {
+            "brandId": 429,
+            "brandName": "Virgin Experience Days",
+            "discount": "12%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Virgin Experience Days.png"
+        },
+        {
+            "brandId": 430,
+            "brandName": "Tocco Toscano",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion ",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Tocco Toscano.PNG"
+        },
+        {
+            "brandId": 431,
+            "brandName": "Faire Leather Co.",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Faire Leather Co.png"
+        },
+        {
+            "brandId": 432,
+            "brandName": "Emma Sleep",
+            "discount": "6%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Emma the sleep company.png"
+        },
+        {
+            "brandId": 433,
+            "brandName": "UGG Express",
+            "discount": "8%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ugg Express.jpg"
+        },
+        {
+            "brandId": 434,
+            "brandName": "Vision Direct",
+            "discount": "Up to 30% ",
+            "category": "Eyewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/VisionDirect.PNG"
+        },
+        {
+            "brandId": 435,
+            "brandName": "Shoes & Sox",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion,Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Shoes %26 Sox.PNG"
+        },
+        {
+            "brandId": 436,
+            "brandName": "Under Armour",
+            "discount": "8%",
+            "category": "Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/under armour.png"
+        },
+        {
+            "brandId": 437,
+            "brandName": "Noa Home",
+            "discount": "7%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Noa.PNG"
+        },
+        {
+            "brandId": 438,
+            "brandName": "Nude by Nature",
+            "discount": "8%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/NudebyNature.PNG"
+        },
+        {
+            "brandId": 439,
+            "brandName": "T2 Tea",
+            "discount": "6%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/t2 tea.png"
+        },
+        {
+            "brandId": 440,
+            "brandName": "The Healthy Mummy",
+            "discount": "7.5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/the healthy mummy.png"
+        },
+        {
+            "brandId": 441,
+            "brandName": "Milanoo.com",
+            "discount": "15%",
+            "category": "Adult & Kid's Clothing & Fashion,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Milanoo.png"
+        },
+        {
+            "brandId": 442,
+            "brandName": "Rip Curl",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Rip Curl.png"
+        },
+        {
+            "brandId": 443,
+            "brandName": "Klook Travel",
+            "discount": "Up to 5%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Klook.png"
+        },
+        {
+            "brandId": 444,
+            "brandName": "The Wine Collective",
+            "discount": "12.50%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/the wine collective.png"
+        },
+        {
+            "brandId": 445,
+            "brandName": "Deals.com.au",
+            "discount": "Up to 4%",
+            "category": "Holiday & Travel,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Deals.png"
+        },
+        {
+            "brandId": 446,
+            "brandName": "Inglot Cosmetics",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Inglot.png"
+        },
+        {
+            "brandId": 447,
+            "brandName": "RY - Recreate Yourself",
+            "discount": "6%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Recreate Yourself.png"
+        },
+        {
+            "brandId": 448,
+            "brandName": "Boden Clothing",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Boden.PNG"
+        },
+        {
+            "brandId": 449,
+            "brandName": "Nourished Life",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Nourished Life.png"
+        },
+        {
+            "brandId": 450,
+            "brandName": "Alex and Alexa",
+            "discount": "8%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Alex and Alexa.png"
+        },
+        {
+            "brandId": 451,
+            "brandName": "Dusk",
+            "discount": "10%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Dusk.PNG"
+        },
+        {
+            "brandId": 452,
+            "brandName": "hideAWAY",
+            "discount": "15%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/hideAWAY.jpg"
+        },
+        {
+            "brandId": 453,
+            "brandName": "Bing Lee",
+            "discount": "Up to 3%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/BING LEE.png"
+        },
+        {
+            "brandId": 454,
+            "brandName": "The Athlete's Foot",
+            "discount": "3%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Athletes Foot.PNG"
+        },
+        {
+            "brandId": 455,
+            "brandName": "Later Gator",
+            "discount": "4%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Later Gator.png"
+        },
+        {
+            "brandId": 456,
+            "brandName": "Vintage Cellars",
+            "discount": "Up to 3.5%",
+            "category": "Food & Drinks",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/vintage_cellars.png"
+        },
+        {
+            "brandId": 457,
+            "brandName": "Fiverr",
+            "discount": "7%",
+            "category": "Business Supplies & Services",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Fiverr.png"
+        },
+        {
+            "brandId": 458,
+            "brandName": "Bonds",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion,Baby & Childcare,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bonds.png"
+        },
+        {
+            "brandId": 459,
+            "brandName": "Rosegal",
+            "discount": "Up to 16%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Rosegal.PNG"
+        },
+        {
+            "brandId": 460,
+            "brandName": "Yoga Wake Up",
+            "discount": "Up to $10.00USD",
+            "category": "Sports & Fitness",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/yoga-wake-up.png"
+        },
+        {
+            "brandId": 461,
+            "brandName": "CAT Workwear",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/cat.png"
+        },
+        {
+            "brandId": 462,
+            "brandName": "Pharma Botanica",
+            "discount": "Up to 20%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Pharma Botanica.png"
+        },
+        {
+            "brandId": 463,
+            "brandName": "E-Dog",
+            "discount": "10%",
+            "category": "Pet Products",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/eDog.PNG"
+        },
+        {
+            "brandId": 464,
+            "brandName": "Speedo",
+            "discount": "6%",
+            "category": "Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Speedo.PNG"
+        },
+        {
+            "brandId": 465,
+            "brandName": "Stuck On You",
+            "discount": "15%",
+            "category": "Personalised Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Stuck on You.png"
+        },
+        {
+            "brandId": 466,
+            "brandName": "Norton Life Lock",
+            "discount": "40%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/NortonLife.png"
+        },
+        {
+            "brandId": 467,
+            "brandName": "Sunday Somewhere",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Sunday Somewhere.PNG"
+        },
+        {
+            "brandId": 468,
+            "brandName": "Virgin Wines ",
+            "discount": "10%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Virgin Wines.png"
+        },
+        {
+            "brandId": 469,
+            "brandName": "Fresh Fragrances",
+            "discount": "Up to 10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Fresh.PNG"
+        },
+        {
+            "brandId": 470,
+            "brandName": "M.J. Bale",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/M.J.Bale.png"
+        },
+        {
+            "brandId": 471,
+            "brandName": "Lovehoney",
+            "discount": "Up to 22%",
+            "category": "Adult Only Stores",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Lovehoney.png"
+        },
+        {
+            "brandId": 472,
+            "brandName": "Sheridan",
+            "discount": "8%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Sheridan.png"
+        },
+        {
+            "brandId": 473,
+            "brandName": "Bellabox",
+            "discount": "25%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/bellaboz.png"
+        },
+        {
+            "brandId": 474,
+            "brandName": "Cudo",
+            "discount": "Up to 4%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Cudo.png"
+        },
+        {
+            "brandId": 475,
+            "brandName": "FORCAST",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Forcast.png"
+        },
+        {
+            "brandId": 476,
+            "brandName": "Saucony",
+            "discount": "5%",
+            "category": "Footwear,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Saucony.PNG"
+        },
+        {
+            "brandId": 477,
+            "brandName": "Edureka",
+            "discount": "Up to 30%",
+            "category": "Learning & Education",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/edureka.png"
+        },
+        {
+            "brandId": 478,
+            "brandName": "Helly Hansen Australia",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion,Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Helly Hansen Australia.PNG"
+        },
+        {
+            "brandId": 479,
+            "brandName": "Activeskin",
+            "discount": "Up to 8%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ActiveSkin.PNG"
+        },
+        {
+            "brandId": 480,
+            "brandName": "GoodnessMe Box",
+            "discount": "Up to 15%",
+            "category": "Food & Beverage,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/2x.png"
+        },
+        {
+            "brandId": 481,
+            "brandName": "EdX (Global)",
+            "discount": "10%",
+            "category": "Learning & Education",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/EdX.PNG"
+        },
+        {
+            "brandId": 482,
+            "brandName": "Superga",
+            "discount": "Up to 5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Superga.png"
+        },
+        {
+            "brandId": 483,
+            "brandName": "Hawes and Curtis",
+            "discount": "4%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Hawes %26 Curtis.png"
+        },
+        {
+            "brandId": 484,
+            "brandName": "Kailis Australian Pearls",
+            "discount": "2.5%",
+            "category": "Jewellery,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kailis-Australian-Pearls-600px.png"
+        },
+        {
+            "brandId": 485,
+            "brandName": "Skydive Australia",
+            "discount": "6%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/skydive australia.png"
+        },
+        {
+            "brandId": 486,
+            "brandName": "Lime Tree Kids",
+            "discount": "Up to 10%",
+            "category": "Children Games & Toys",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Lime Tree Kids.PNG"
+        },
+        {
+            "brandId": 487,
+            "brandName": "Ally Fashion",
+            "discount": "7%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Ally.png"
+        },
+        {
+            "brandId": 488,
+            "brandName": "Johnson Fitness",
+            "discount": "4%",
+            "category": "Sports & Fitness",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Johnson Fitness %26 Wellness.png"
+        },
+        {
+            "brandId": 489,
+            "brandName": "QBD Books",
+            "discount": "6%",
+            "category": "Learning & Education,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/QBD Books.PNG"
+        },
+        {
+            "brandId": 490,
+            "brandName": "The Stork Nest",
+            "discount": "5%",
+            "category": "Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Stork Nest.PNG"
+        },
+        {
+            "brandId": 491,
+            "brandName": "HappySleep ",
+            "discount": "5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Happy Sleep 1.PNG"
+        },
+        {
+            "brandId": 492,
+            "brandName": "Katies",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Katies.PNG"
+        },
+        {
+            "brandId": 493,
+            "brandName": "BabyHeart",
+            "discount": "10%",
+            "category": "Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Baby Heart.png"
+        },
+        {
+            "brandId": 494,
+            "brandName": "Skin Republic",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Skin Republic.png"
+        },
+        {
+            "brandId": 495,
+            "brandName": "Tuchuzy",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/tuchuzy.png"
+        },
+        {
+            "brandId": 496,
+            "brandName": "Dower & Hall",
+            "discount": "5%",
+            "category": "Jewellery",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Dower %26 Hall.png"
+        },
+        {
+            "brandId": 497,
+            "brandName": "YouFind",
+            "discount": "4%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/YouFind.PNG"
+        },
+        {
+            "brandId": 498,
+            "brandName": "THE ICONIC",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/theiconic.png"
+        },
+        {
+            "brandId": 499,
+            "brandName": "Sennheiser AU",
+            "discount": "10%",
+            "category": "Music & Sound Equipment,Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Sennheiser.png"
+        },
+        {
+            "brandId": 500,
+            "brandName": "Boohoo",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/boohoo.png"
+        },
+        {
+            "brandId": 501,
+            "brandName": "Proviz Sports",
+            "discount": "8%",
+            "category": "Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Proviz.png"
+        },
+        {
+            "brandId": 502,
+            "brandName": "Classbento",
+            "discount": "Up to 5%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Class Bento.png"
+        },
+        {
+            "brandId": 503,
+            "brandName": "HealthPost",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Health Post.png"
+        },
+        {
+            "brandId": 504,
+            "brandName": "Surfstitch",
+            "discount": "Up to 10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Surfstitch.png"
+        },
+        {
+            "brandId": 505,
+            "brandName": "Crocs",
+            "discount": "5%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/crocs.PNG"
+        },
+        {
+            "brandId": 506,
+            "brandName": "Adultshop.com",
+            "discount": "20%",
+            "category": "Adult Only Stores",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/adultshop.png"
+        },
+        {
+            "brandId": 507,
+            "brandName": "Zac & Lulu",
+            "discount": "6%",
+            "category": "Baby & Childcare,Adult & Kid's Clothing & Fashion,Children Games & Toys",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Zac and LuLu Logo.png"
+        },
+        {
+            "brandId": 508,
+            "brandName": "JBL",
+            "discount": "5%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/JBL.png"
+        },
+        {
+            "brandId": 509,
+            "brandName": "EASYFLOWERS",
+            "discount": "15%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/easy flowers.png"
+        },
+        {
+            "brandId": 510,
+            "brandName": "CameraPro",
+            "discount": "2%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/CameraPro-logo-grey-1000.png"
+        },
+        {
+            "brandId": 511,
+            "brandName": "Beaurepaires Tyres",
+            "discount": "10%",
+            "category": "Cars & Bikes & Accessories,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Beaurepaires.PNG"
+        },
+        {
+            "brandId": 512,
+            "brandName": "Fantasy Lingerie",
+            "discount": "Up to 10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Fantasy.png"
+        },
+        {
+            "brandId": 513,
+            "brandName": "Craft Cartel Liquor",
+            "discount": "Up to 5%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Craft Cartel.png"
+        },
+        {
+            "brandId": 514,
+            "brandName": "Flora and Fauna",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion,Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/flora-fauna.png"
+        },
+        {
+            "brandId": 515,
+            "brandName": "Mizuno",
+            "discount": "6%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mizuno.png"
+        },
+        {
+            "brandId": 516,
+            "brandName": "Showbag Shop",
+            "discount": "10%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Showbag Shop.png"
+        },
+        {
+            "brandId": 517,
+            "brandName": "Taking Shape",
+            "discount": "7% ",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/taking shape.PNG"
+        },
+        {
+            "brandId": 518,
+            "brandName": "General Pants",
+            "discount": "Up to 6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/General Pants.PNG"
+        },
+        {
+            "brandId": 519,
+            "brandName": "The Man Shake",
+            "discount": "8%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Man Shake.PNG"
+        },
+        {
+            "brandId": 520,
+            "brandName": "MyBottleShop",
+            "discount": "5.5%",
+            "category": "Food & Beverage",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/My BottleShop.jpg"
+        },
+        {
+            "brandId": 521,
+            "brandName": "Realme AU",
+            "discount": "5%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/realme.png"
+        },
+        {
+            "brandId": 522,
+            "brandName": "Core Trainer",
+            "discount": "10%",
+            "category": "Activewear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Core Trainer.png"
+        },
+        {
+            "brandId": 523,
+            "brandName": "Zookal",
+            "discount": "5%",
+            "category": "Learning & Education",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Zookal!.PNG"
+        },
+        {
+            "brandId": 524,
+            "brandName": "BecexTech",
+            "discount": "Up to 1%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Becextech.png"
+        },
+        {
+            "brandId": 525,
+            "brandName": "Shouz",
+            "discount": "10%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Shouz.PNG"
+        },
+        {
+            "brandId": 526,
+            "brandName": "Charles & Keith",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Charles %26 Keith.png"
+        },
+        {
+            "brandId": 527,
+            "brandName": "Mr Vitamins",
+            "discount": "8%",
+            "category": "Cosmetics & Healthcare,Popular",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mr Vitamins.jpg"
+        },
+        {
+            "brandId": 528,
+            "brandName": "Nobody Denim",
+            "discount": "6%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Nobody Denim.png"
+        },
+        {
+            "brandId": 529,
+            "brandName": "Graham & Brown",
+            "discount": "6%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Graham %26 Brown.PNG"
+        },
+        {
+            "brandId": 530,
+            "brandName": "Bona Fide Masks",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/BonaFide Masks.png"
+        },
+        {
+            "brandId": 531,
+            "brandName": "Adulttoymegastore",
+            "discount": "Up to 20%",
+            "category": "Adult Only Stores",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/ATMS.png"
+        },
+        {
+            "brandId": 532,
+            "brandName": "Veronika Maine",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Veronika Maine.png"
+        },
+        {
+            "brandId": 533,
+            "brandName": "Pet House",
+            "discount": "Up to 8%",
+            "category": "Pet Products",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Pet House.PNG"
+        },
+        {
+            "brandId": 534,
+            "brandName": "Gift Card Store",
+            "discount": "1.50%",
+            "category": "Personalised Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Giftcardstore.png"
+        },
+        {
+            "brandId": 535,
+            "brandName": "Threadicated",
+            "discount": "$3 per verified sign up",
+            "category": "Adult & Kid's Clothing & Fashion ",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Threadicated.PNG"
+        },
+        {
+            "brandId": 536,
+            "brandName": "Bonds Outlet",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion,Baby & Childcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bonds Outlet.PNG"
+        },
+        {
+            "brandId": 537,
+            "brandName": "Bondi Smile Australia",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Bondi Smile.PNG"
+        },
+        {
+            "brandId": 538,
+            "brandName": "The Baby Gift Company",
+            "discount": "10%",
+            "category": "Baby & Childcare,Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/The Baby Gift Company.png"
+        },
+        {
+            "brandId": 539,
+            "brandName": "Etsy",
+            "discount": "2%",
+            "category": "Online Retailer",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Etsy.png"
+        },
+        {
+            "brandId": 540,
+            "brandName": "Liberty Belle RX",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Liberty Belle logo.jpg"
+        },
+        {
+            "brandId": 541,
+            "brandName": "AAT Kings",
+            "discount": "4%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/AAT Kings.png"
+        },
+        {
+            "brandId": 542,
+            "brandName": "SUBTYPE",
+            "discount": "5%",
+            "category": "Footwear,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Subtype.png"
+        },
+        {
+            "brandId": 543,
+            "brandName": "Sony",
+            "discount": "3%",
+            "category": "Technology & Electronics",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/sony.png"
+        },
+        {
+            "brandId": 544,
+            "brandName": "Freedom",
+            "discount": "Up to 3.5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Freedom.png"
+        },
+        {
+            "brandId": 545,
+            "brandName": "Glassons",
+            "discount": "4%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Glassons.png"
+        },
+        {
+            "brandId": 546,
+            "brandName": "Florsheim",
+            "discount": "5%",
+            "category": "Adult & Kid's Clothing & Fashion,Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Florsheim.png"
+        },
+        {
+            "brandId": 547,
+            "brandName": "Casetify",
+            "discount": "10%",
+            "category": "Retail & Gifts",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Casetify.jpg"
+        },
+        {
+            "brandId": 548,
+            "brandName": "Kivari",
+            "discount": "Up to 10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Kivari.PNG"
+        },
+        {
+            "brandId": 549,
+            "brandName": "Alibaba APAC",
+            "discount": "6%",
+            "category": "Online Retailer",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Alibaba.PNG"
+        },
+        {
+            "brandId": 550,
+            "brandName": "L'urv",
+            "discount": "10%",
+            "category": "Activewear,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/L%27Urv.png"
+        },
+        {
+            "brandId": 551,
+            "brandName": "E-Living Furniture",
+            "discount": "5%",
+            "category": "Department Stores & Homewares",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/eLiving.png"
+        },
+        {
+            "brandId": 552,
+            "brandName": "Global Healing",
+            "discount": "10%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Global Healing.PNG"
+        },
+        {
+            "brandId": 553,
+            "brandName": "Boob Tape",
+            "discount": "10%",
+            "category": "Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/boob tape.png"
+        },
+        {
+            "brandId": 554,
+            "brandName": "Price Rite Mart",
+            "discount": "5%",
+            "category": "Cosmetics & Healthcare",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Price Rite Mart.jpg"
+        },
+        {
+            "brandId": 555,
+            "brandName": "Viator",
+            "discount": "3%",
+            "category": "Holiday & Travel",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Viator-Logo.png"
+        },
+        {
+            "brandId": 556,
+            "brandName": "Styletread",
+            "discount": "10%",
+            "category": "Footwear",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Stylethread.png"
+        },
+        {
+            "brandId": 557,
+            "brandName": "Mamaway",
+            "discount": "10%",
+            "category": "Baby & Childcare,Adult & Kid's Clothing & Fashion",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Mama Way.PNG"
+        },
+        {
+            "brandId": 558,
+            "brandName": "Club X",
+            "discount": "Up to 20%",
+            "category": "Adult Only Stores",
+            "logoURL": "https://hf-coding-test.s3.ap-southeast-2.amazonaws.com/Club X.png"
+        }
+    ]
+}
