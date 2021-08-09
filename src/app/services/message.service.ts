@@ -10,7 +10,9 @@ import { SearchQuery } from '../models/search.interface';
 export class MessageService {
 
 	private subject = new BehaviorSubject<SearchQuery>({search:'', category: []});
-	searchKey$: Observable<SearchQuery> = this.subject.asObservable().pipe(filter((search) => search.search.length > 3 || search.category.length > 0));
+	searchKey$: Observable<SearchQuery> = this.subject
+		.asObservable()
+		.pipe(filter((search) => search.search.length >= 0 || search.category.length >= 0));
 
   	constructor() { }
 

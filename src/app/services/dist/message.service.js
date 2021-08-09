@@ -13,7 +13,9 @@ var operators_1 = require("rxjs/operators");
 var MessageService = /** @class */ (function () {
     function MessageService() {
         this.subject = new rxjs_1.BehaviorSubject({ search: '', category: [] });
-        this.searchKey$ = this.subject.asObservable().pipe(operators_1.filter(function (search) { return search.search.length > 3 || search.category.length > 0; }));
+        this.searchKey$ = this.subject
+            .asObservable()
+            .pipe(operators_1.filter(function (search) { return search.search.length >= 0 || search.category.length >= 0; }));
     }
     MessageService.prototype.updateBrands = function (search) {
         this.subject.next(search);
